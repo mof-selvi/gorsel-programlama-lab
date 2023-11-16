@@ -25,6 +25,9 @@ this.Controls.Add(button);
 
 * Üstteki iki yön butonu ile piyano tuşları sağa-sola kaydırılabilmelidir.
 
+  ![Piano2](https://github.com/mof-selvi/gorsel-programlama-lab/assets/58203457/aeb976cf-6a8d-4a6e-8813-91c3a8d7f9a6)
+
+
 * Form pencereniz yeniden boyutlandırılabilir olmamalıdır! Pencerenizin sabit boyutta kalması için gerekli ayarları araştırınız.
 
 ---
