@@ -41,7 +41,7 @@ this.Controls.Add(button);
 C0
 ```
 
-* 3. oktav Fa-diyez notasının çıktısı:
+* "3. oktav Fa-diyez" notasının çıktısı:
 ```
 F#2
 ```
