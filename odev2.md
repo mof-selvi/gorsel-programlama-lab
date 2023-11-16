@@ -17,6 +17,8 @@ button.BringToFront();
 this.Controls.Add(button);
 ```
 
+* Buton oluşturma kodlarını Form için bir "Load" event'i oluşturarak içerisine yazabilirsiniz. (Farklı yöntemler de geçerlidir.)
+
 * Siyah tuşların sayısına ve beyaz tuşlara göre konumlarına dikkat ediniz.
 
 * Tuşları kendi renkleri içerisinde numaralandırınız.
