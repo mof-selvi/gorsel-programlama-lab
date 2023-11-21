@@ -1,0 +1,17 @@
+C:\Users\MS\source\repos\Piano\Piano\bin\Debug\net6.0-windows\Piano.exe
+C:\Users\MS\source\repos\Piano\Piano\bin\Debug\net6.0-windows\Piano.deps.json
+C:\Users\MS\source\repos\Piano\Piano\bin\Debug\net6.0-windows\Piano.runtimeconfig.json
+C:\Users\MS\source\repos\Piano\Piano\bin\Debug\net6.0-windows\Piano.dll
+C:\Users\MS\source\repos\Piano\Piano\bin\Debug\net6.0-windows\Piano.pdb
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.csproj.AssemblyReference.cache
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.Form1.resources
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.csproj.GenerateResource.cache
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.AssemblyInfoInputs.cache
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.AssemblyInfo.cs
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.dll
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\refint\Piano.dll
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.pdb
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\Piano.genruntimeconfig.cache
+C:\Users\MS\source\repos\Piano\Piano\obj\Debug\net6.0-windows\ref\Piano.dll
