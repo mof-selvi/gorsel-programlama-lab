@@ -49,4 +49,8 @@ F#2
 ```
 
 
+# Çözüm
+
+* [Piano](https://github.com/mof-selvi/gorsel-programlama-lab/tree/main/Piano) klasöründe çözüm paylaşılmıştır. (Bonus kısmını içermez. Bonusu da tamamlamak isteyenler takıldıkları noktalarda bana ulaşabilir.)
+
 
