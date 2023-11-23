@@ -12,6 +12,8 @@ if (e.KeyChar == (char)Keys.Return)
 }
 ```
 
+* Asallık tespiti için bool türünde dönüş yapan bir fonksiyon hazırlayınız. Algoritma için internetteki kaynaklardan faydalanabilirsiniz.
+
 * Programınız standart haliyle çalışır hale geldikten sonra büyük sayıları deneyiniz. İşlem bitene kadar arayüzün donup donmadığına dikkat ediniz.
 
 * Donmalar -varsa- muhtemel çözümleri düşünüp uygun birini implement etmeyi deneyiniz.
