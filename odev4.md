@@ -33,3 +33,7 @@
 * Kampanyalar ürünlere özel olarak girilmeli ve bir ürün için birden fazla kampanya olabilmeli.
 * Bu yapıda sepet tutarına bakmak yerine seçili ürünlerden kaç adet alındığına bakılmalıdır. Örn: X ürününden 5 adet alımda %5, 10 adet alımda %7, 15 adet alımda %10 indirim sepetin son tutarına uygulanmalıdır.
 
+## Bonus 2
+* Bu programın bir şahıs işletmesi tarafından da kullanılabileceğini göz önünde bulundurarak gelir vergisi dilimlerini ve KDV hesaplamasını da sisteme implement ediniz. Gerekli model, controller, view elemanlarını uygun şekilde tasarlayınız.
+
+
