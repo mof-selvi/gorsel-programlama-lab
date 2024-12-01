@@ -20,5 +20,5 @@
 
 -- 
 
-Yardımcı kaynak: (Görsel Programlama - BackgroundWorker - Threads.pdf)[Görsel Programlama - BackgroundWorker - Threads.pdf]
+Yardımcı kaynak: [Görsel Programlama - BackgroundWorker - Threads.pdf](Görsel%20Programlama%20-%20BackgroundWorker%20-%20Threads.pdf)
 
