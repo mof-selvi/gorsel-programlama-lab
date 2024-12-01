@@ -18,7 +18,7 @@
   - Her üretilen yeni sayı liste kutusuna thread-safe olarak eklenmelidir. Bunun için BackgroundWorker bileşeni kullanınız.
   - Her sayı üretimi sonrasında programınız yaklaşık yarım saniye beklemelidir. Fakat bu işlemlerin hiçbiri kullanıcının arayüzü kullanımını engellememelidir.
 
--- 
+---
 
 Yardımcı kaynak: [Görsel Programlama - BackgroundWorker - Threads.pdf](Görsel%20Programlama%20-%20BackgroundWorker%20-%20Threads.pdf)
 
