@@ -10,7 +10,7 @@
 - `Başla` butonuna basıldığında aşağıda açıklanan işlem başlamalı veya kaldığı yerden devam etmeli, `Bekle` butonuna basıldığında işlem duraklatılmalı.
 - İşlem devam ettiği sürece ilerleme çubuğu dolmalıdır. İlerleme çubuğu için minimum değer 0, maksimum değer 100 olmalıdır.
 
-- Uygulamanız, işleme devam etme durumundayken sayma sayısı girdisi ile belirtilen adede kadar rastgele sayı üretmelidir.
+- Uygulamanız işleme devam etme durumundayken, sayma sayısı girdisi ile belirtilen adede kadar rastgele sayı üretmelidir.
   - Her üretilen yeni sayı liste kutusuna thread-safe olarak eklenmelidir. Bunun için BackgroundWorker bileşeni kullanınız.
   - Her sayı üretimi sonrasında programınız yaklaşık yarım saniye beklemelidir. Fakat bu işlemlerin hiçbiri kullanıcının arayüzü kullanımını engellememelidir.
 
